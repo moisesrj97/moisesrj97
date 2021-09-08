@@ -1,9 +1,13 @@
-# Hello World!
-## 🤔 Who am I?
-- 👋 Hi, I’m @moisesrj97
-- 👀 I’m interested in React, React Native, Vue, etc.
-- 🌱 I’m currently learning at SkyLab Coders Academy
-- 💞️ I’m looking to collaborate on anything that can make me be a better developer or a better person!
+# Hello World!  
+
+<img src="https://media1.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif?cid=ecf05e47bknfbkxgn2cb39pecwwhj0qrmwr0zoogvoe15v2u&rid=giphy.gif&ct=s" style="width: 300px" align="right"/>
+
+## 🤔 Who am I? (Spoiler: not the coding dog)
+
+- 👋 Hi, I’m @moisesrj97  
+- 👀 I’m interested in React, React Native, Vue, etc.  
+- 🌱 I’m currently learning at SkyLab Coders Academy  
+- 💞️ I’m looking to collaborate on anything that can make me be a better developer or a better person!  
 
 ## 💻 I work with  
 
@@ -18,8 +22,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesrj97&show_icons=true&theme=buefy)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesrj97&layout=compact?theme=buefy)
 
-- 📫 How to reach me  
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@email.com)  
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesrodriguezjurado/)  
+### 📫 How to reach me  
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@email.com) 
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesrodriguezjurado/) 
   [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/moisesrj97)
