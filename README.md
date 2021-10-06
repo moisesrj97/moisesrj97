@@ -18,9 +18,11 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 	![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)	![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## ↗️ My stats!
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesrj97&show_icons=true&theme=buefy)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesrj97&layout=compact?theme=buefy)
+
+<p align="center">
+ <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=moisesrj97&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+ <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moisesrj97&layout=compact&langs_count=8&theme=buefy"/>
+</p>
 
 ### 📫 How to reach me  
 
