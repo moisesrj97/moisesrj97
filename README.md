@@ -19,9 +19,9 @@
 
 ## ↗️ My stats!
 
-<p align="center" width="100%">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=moisesrj97&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moisesrj97&layout=compact&langs_count=8&theme=buefy"/>
+<p align="center">
+ <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=moisesrj97&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moisesrj97&layout=compact&langs_count=8&theme=buefy"/>
 </p>
 
 ### 📫 How to reach me  
