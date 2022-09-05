@@ -5,8 +5,8 @@
 ## 🤔 Who am I? (Spoiler: not the coding dog)
 
 - 👋 Hi, I’m @moisesrj97  
-- 👀 I’m interested in React, React Native, Angular, Vue,  AWS and cloud computing  
-- 🌱 I’m currently expanding my knowledge in new technologies and such as GraphQL, Firebase and AWS. 
+- 👀 I’m interested in React, React Native, Angular, Vue, AWS and cloud computing  
+- 🌱 I’m currently expanding my knowledge in new technologies and such as GraphQL, Cloud computing and Kotlin!. 
 - 💞️ I’m looking to collaborate on anything that can make me be a better developer or a better person!  
 
 ## 💻 I work with 
