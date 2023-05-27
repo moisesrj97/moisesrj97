@@ -8,6 +8,7 @@
 - 👀 I’m interested in Fullstack Development, clean code and cloud computing  
 - 🌱 I’m currently expanding my knowledge in everything that comes to my hands. 
 - 💞️ I’m looking to collaborate on anything that can make me be a better developer or a better person!  
+- 👾 I love animals, sports, rubik puzzles, poetry and videogames.
 
 ## 💻 I work with 
 
